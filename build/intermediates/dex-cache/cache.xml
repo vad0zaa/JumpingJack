@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\user_39\AndroidStudioProjects\JumpingJack\Wearable\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="C:\Users\user_39\AndroidStudioProjects\JumpingJack\Wearable\build\intermediates\pre-dexed\debug\classes-c3b47c1e03d39018ab3f0b7e2ebb63f2aaa7ed71.jar" />
+    </item>
+    <item
+        jar="C:\Users\user_39\AndroidStudioProjects\JumpingJack\Wearable\build\intermediates\exploded-aar\com.google.android.support\wearable\1.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0e239b45d3b94ac3d759405a9c5fd1f88e53913b">
+        <dex dex="C:\Users\user_39\AndroidStudioProjects\JumpingJack\Wearable\build\intermediates\pre-dexed\debug\classes-266be45391447d50007cfbf67d1ebf0479e08c6c.jar" />
+    </item>
+    <item
+        jar="C:\Users\user_39\AndroidStudioProjects\JumpingJack\Wearable\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="eeebabdfd8203f6ab639ccea4ffa1f20e1adee3a">
+        <dex dex="C:\Users\user_39\AndroidStudioProjects\JumpingJack\Wearable\build\intermediates\pre-dexed\debug\classes-80b9519fffd5d4d630772ac76ad7a191272f1ecc.jar" />
+    </item>
+    <item
+        jar="C:\Users\user_39\AndroidStudioProjects\JumpingJack\Wearable\build\intermediates\exploded-aar\com.android.support\support-v13\22.1.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b6f3fd41dae8c43531192af02ddf5429a1c44446">
+        <dex dex="C:\Users\user_39\AndroidStudioProjects\JumpingJack\Wearable\build\intermediates\pre-dexed\debug\classes-162364a4b1032ec51dc6ca22a2697fe677029358.jar" />
+    </item>
+    <item
+        jar="C:\Users\user_39\AndroidStudioProjects\JumpingJack\Wearable\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.0\libs\internal_impl-22.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="025cb89f2896c63200ff4c2e6c467a95691d880a">
+        <dex dex="C:\Users\user_39\AndroidStudioProjects\JumpingJack\Wearable\build\intermediates\pre-dexed\debug\internal_impl-22.1.0-e2c064078231932640008132e0544293bb08613b.jar" />
+    </item>
+    <item
+        jar="C:\Users\user_39\AndroidStudioProjects\JumpingJack\Wearable\build\intermediates\exploded-aar\com.android.support\support-v13\22.1.0\libs\internal_impl-22.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="50c645d80504c40e34e6bb88360b9a5c1df99b0b">
+        <dex dex="C:\Users\user_39\AndroidStudioProjects\JumpingJack\Wearable\build\intermediates\pre-dexed\debug\internal_impl-22.1.0-6dcdcbd5b2884cdf08add665968c752ba36909f7.jar" />
+    </item>
+    <item
+        jar="C:\Users\user_39\AndroidStudioProjects\JumpingJack\Wearable\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5bf453b070c1e39297986144960e45afa0fdfad">
+        <dex dex="C:\Users\user_39\AndroidStudioProjects\JumpingJack\Wearable\build\intermediates\pre-dexed\debug\classes-e21669a5ada5ba0a94dc963bcca35f4de007ef6c.jar" />
+    </item>
+    <item
+        jar="C:\Users\user_39\AndroidStudioProjects\JumpingJack\Wearable\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="C:\Users\user_39\AndroidStudioProjects\JumpingJack\Wearable\build\intermediates\pre-dexed\debug\classes-d4b07b7ae30ab547126bb240eb48a1888b22db00.jar" />
+    </item>
+    <item
+        jar="C:\Users\user_39\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.0\support-annotations-22.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="281bc6c58ecb3644c23fbc5ee0452019f67b4d5d">
+        <dex dex="C:\Users\user_39\AndroidStudioProjects\JumpingJack\Wearable\build\intermediates\pre-dexed\debug\support-annotations-22.1.0-54fcd09821f114d63a9481ec94f42f7e8a61ed05.jar" />
+    </item>
+
+</items>
